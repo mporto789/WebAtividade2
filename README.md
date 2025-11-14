@@ -2,7 +2,7 @@
 
 Este projeto é um aplicativo em **React Native** que consome a API pública de Rick and Morty para exibir uma lista de personagens com paginação, busca, pull-to-refresh e carregamento infinito.
 
-## 📸 Funcionalidades
+##  Funcionalidades
 
 - ✔️ Listagem de personagens com imagens
 - ✔️ Busca por nome com debounce
@@ -13,7 +13,7 @@ Este projeto é um aplicativo em **React Native** que consome a API pública de 
 
 ---
 
-## 🚀 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - **React Native**
 - **React Hooks** (useState, useEffect)
@@ -22,7 +22,7 @@ Este projeto é um aplicativo em **React Native** que consome a API pública de 
 
 ---
 
-## 📦 Como rodar o projeto
+##  Como rodar o projeto
 
 ### 1. Clone o repositório
 ```bash
@@ -49,7 +49,7 @@ npm start
 
 ---
 
-## 🧩 Estrutura do código
+##  Estrutura do código
 O arquivo principal contém:
 
 - Função `fetchCharacters()` para buscar dados da API
@@ -59,7 +59,7 @@ O arquivo principal contém:
 
 ---
 
-## 🖼️ Preview dos Cards
+##  Preview dos Cards
 Cada personagem exibe:
 - Imagem
 - Nome
@@ -69,14 +69,14 @@ Cada personagem exibe:
 
 ---
 
-## ⚠️ Possíveis melhorias futuras
+##  Possíveis melhorias futuras
 - Tema escuro
 - Tela de detalhes do personagem
 - Cache local com AsyncStorage
 
 ---
 
-## 📄 Licença
+##  Licença
 Este projeto é livre para estudo e modificação.
 
 ---
